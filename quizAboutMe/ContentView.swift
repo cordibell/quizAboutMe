@@ -37,6 +37,7 @@ struct ContentView: View {
                             .cornerRadius(15)
                             .padding()
                     } // navlink
+                    Text("Get ready...")
                 } //vstack
             } // zstack
             .navigationTitle("Home")
